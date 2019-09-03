@@ -9,6 +9,7 @@ body {
   
   * {
     box-sizing: border-box;
+    margin: 0;
   }
   
   /* general */
@@ -43,7 +44,7 @@ body {
     padding-bottom: 20px;
     font-size: 30px;
     line-height: 49px;
-    border-bottom: 3px solid #dddddd;
+    border-bottom: 3px solid gray;
   }
   
   h2,
@@ -60,7 +61,7 @@ body {
     margin: 0 0 30px;
     overflow: auto;
     color: #ffffff;
-    background: #ffffff;
+    background: grey;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -88,7 +89,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    color: white;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
