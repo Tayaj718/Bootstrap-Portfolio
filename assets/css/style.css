@@ -3,8 +3,8 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    /* background-image: url(assets/images/interlaced.png); */
-    background-color: bisque;
+    background-image: url("../images/interlaced.png");
+    
   }
   
   * {
